@@ -9,8 +9,6 @@
  *
  */
 
-//client
- // difference
 
 #include <ros/ros.h>
 #include <stdio.h>
