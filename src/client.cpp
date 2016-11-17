@@ -9,6 +9,8 @@
  *
  */
 
+//client
+
 #include <ros/ros.h>
 #include <stdio.h>
 #include <dji_sdk/dji_drone.h>
